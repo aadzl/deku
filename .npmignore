@@ -1,9 +1,0 @@
-docs
-examples
-test
-.babelrc
-.gitignore
-.zuul.yml
-book.json
-Makefile
-README.md
